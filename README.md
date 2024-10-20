@@ -1,0 +1,1 @@
+An array of Freelancers that self-updates every 3 seconds with new freelancers by name, occupation, and price 
