@@ -1,5 +1,5 @@
 # Block 19 JavaScript DOM, Workshop: Freelancer Rates
-An array of Freelancers that self-updates every 3 seconds with new freelancers by name, occupation, and price 
+Create a platform that advertises independent freelancers, their services and rates. An array of Freelancers that self-updates every 3 seconds with new freelancers by name, occupation, and price. 
 
 # Requirements
 Build your website according to this user story:
